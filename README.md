@@ -67,7 +67,7 @@ Para otimizar as consultas e unificar o cálculo dos indicadores logísticos, fo
 
 ## 📁 Documentação Completa
 O relatório analítico detalhado com todas as 18 perguntas e diagnósticos pode ser visualizado no arquivo:
-👉 [Relatório Detalhado de Negócio (PDF)](Documentos/Relatorio_Detalhado_Problema_de_Negocio_18_Perguntas.pdf)
+👉 [Relatório Detalhado de Negócio (PDF)](Relatorio_Detalhado_Problema_de_Negocio_18_Perguntas.pdf)
 
 ---
 
